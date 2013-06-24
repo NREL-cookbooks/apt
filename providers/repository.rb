@@ -17,7 +17,8 @@
 # limitations under the License.
 #
 
-use_inline_resources
+# NL -- Have to comment out for ubuntu
+#use_inline_resources
 
 def whyrun_supported?
   true
